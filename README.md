@@ -19,10 +19,10 @@ We are funded by Mathematics Area of SISSA, European Research Council, European 
   - [people](https://mathlab.sissa.it/people)
 
 - 📦 Frameworks used:
-  -[OpenFoam](OpenFoam)
-  -[NumPy](https://numpy.org/)
-  -[Scipy](https://scipy.org/)
-  -[PyTorch](https://pytorch.org/)
-  -[Fenics/Fenicsx](https://fenicsproject.org/)
-  -[Scikit-Learn](https://scikit-learn.org)
+  - [OpenFoam](OpenFoam)
+  - [NumPy](https://numpy.org/)
+  - [Scipy](https://scipy.org/)
+  - [PyTorch](https://pytorch.org/)
+  - [Fenics/Fenicsx](https://fenicsproject.org/)
+  - [Scikit-Learn](https://scikit-learn.org)
 
